@@ -1,0 +1,36 @@
+Testsuite: NumericBinaryTreeTest
+Tests run: 33, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.247 sec
+
+Testcase: equalsNullTest took 0 sec
+Testcase: emptyTreeTest took 0 sec
+Testcase: emptyTreeSetLeftChildException took 0 sec
+Testcase: postorderValuesTest took 0.002 sec
+Testcase: serializationDefaultEmptyTest took 0.033 sec
+Testcase: equalsMTTest took 0 sec
+Testcase: mutationTest took 0 sec
+Testcase: multiNodeConstructionTest took 0 sec
+Testcase: emptyTreeGetRightChildException took 0 sec
+Testcase: serializationDefaultNonemptyTest took 0 sec
+Testcase: preorderValuesTest took 0 sec
+Testcase: oneNodeSecondaryTest took 0 sec
+Testcase: equalsOtherClassTest took 0 sec
+Testcase: inorderValuesTest took 0 sec
+Testcase: emptyTreeSetValueException took 0 sec
+Testcase: emptyTreeSetRightChildException took 0 sec
+Testcase: emptyTreeGetLeftChildException took 0 sec
+Testcase: iteratorTest took 0 sec
+Testcase: illegalValueConstructorException took 0 sec
+Testcase: serializationNonemptyTest took 0 sec
+Testcase: serializationEmptyTest took 0 sec
+Testcase: emptyTreeNumberOfLeavesException took 0 sec
+Testcase: emptyTreeGetValueException took 0 sec
+Testcase: treeToString took 0 sec
+Testcase: postorderNodesTest took 0 sec
+Testcase: oneNodeTest took 0 sec
+Testcase: hashCodeTest took 0 sec
+Testcase: equalsStandardTest took 0 sec
+Testcase: inorderNodesTest took 0 sec
+Testcase: emptyTreeIsLeafException took 0.015 sec
+Testcase: equalsRootOnlyTest took 0 sec
+Testcase: preorderNodesTest took 0 sec
+Testcase: valuesTest took 0 sec
